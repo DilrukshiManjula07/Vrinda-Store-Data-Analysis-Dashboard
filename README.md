@@ -1,5 +1,5 @@
 # Vrinda Store - Data-Analysis-Dashboard (Annual Sales Report 2022)
-The goal of this project was to create an interactive Excel dashboard that helps the owner of Vrinda Store understand customer behavior, product performance, and sales trends — enabling better strategies for growing sales in 2023 and 2024.
+The goal of this project was to create an interactive Excel dashboard that helps the owner of Vrinda Store understand customer behavior, product performance, and sales trends - enabling better strategies for growing sales in 2023 and 2024.
 
 ## Dataset
 - A structured sales dataset containing order details including:
