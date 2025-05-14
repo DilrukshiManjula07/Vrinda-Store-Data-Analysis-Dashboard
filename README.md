@@ -10,15 +10,15 @@ The goal of this project was to create an interactive Excel dashboard that helps
 - Order date, value, and quantity
 
 ## Business Questions (KPIs)
-1.Compare total Sales vs. Orders using a combined chart
-2.Identify the month with the highest sales and orders
-3.Analyze purchase behavior by gender
-4.Review different order status types
-5.List the Top 10 states contributing to total sales
-6.Study the relationship between age and gender by order count
-7.Determine which sales channel contributed the most
-8.Find the highest selling product category
-9.Calculate the percentage of orders delivered
+- Compare total Sales vs. Orders using a combined chart
+- Identify the month with the highest sales and orders
+- Analyze purchase behavior by gender
+- Review different order status types
+- List the Top 10 states contributing to total sales
+- Study the relationship between age and gender by order count
+- Determine which sales channel contributed the most
+- Find the highest selling product category
+- Calculate the percentage of orders delivered
 
 ## Process
 - Verified dataset for missing values, anomalies, and inconsistencies
@@ -41,17 +41,18 @@ The goal of this project was to create an interactive Excel dashboard that helps
 - Over 90% of orders were successfully delivered
 
 ## Final Conclusion
-To grow Vrinda Store's sales in 2023 and beyond:
+-To grow Vrinda Store's sales in 2023 and beyond:
 - Focus marketing efforts on women aged 30–49
-	-Target high-performing regions: Maharashtra, Karnataka, Uttar Pradesh
-	-Use personalized promotions and digital campaigns on leading platforms
-	-Tailor product offerings and deals based on past purchase trends
+- Target high-performing regions: Maharashtra, Karnataka, Uttar Pradesh
+- Use personalized promotions and digital campaigns on leading platforms
+- Tailor product offerings and deals based on past purchase trends
 
 ## Tools Used
--Microsoft Excel
-	-PivotTables
-	-Charts
-	-Slicers
-	-Conditional Formatting
-	-Data Cleaning
+- Microsoft Excel
+- PivotTables
+- Charts
+- Slicers
+- Conditional Formatting
+- Data Cleaning
+
 
