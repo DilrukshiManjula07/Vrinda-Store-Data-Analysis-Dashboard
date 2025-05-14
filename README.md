@@ -25,8 +25,8 @@ The goal of this project was to create an interactive Excel dashboard that helps
 - Cleaned and formatted the data types and values (e.g., dates, text labels)
 - Created multiple Pivot Tables and Charts based on the above questions
 - Designed a fully interactive dashboard using slicers for:
-- Month
-- Channel
+	- Month
+	- Channel
 	- Category
 - Combined all visuals into one dashboard with clear layout and insights
 
@@ -41,11 +41,11 @@ The goal of this project was to create an interactive Excel dashboard that helps
 - Over 90% of orders were successfully delivered
 
 ## Final Conclusion
--To grow Vrinda Store's sales in 2023 and beyond:
-- Focus marketing efforts on women aged 30–49
-- Target high-performing regions: Maharashtra, Karnataka, Uttar Pradesh
-- Use personalized promotions and digital campaigns on leading platforms
-- Tailor product offerings and deals based on past purchase trends
+- To grow Vrinda Store's sales in 2023 and beyond:
+	- Focus marketing efforts on women aged 30–49
+	- Target high-performing regions: Maharashtra, Karnataka, Uttar Pradesh
+	- Use personalized promotions and digital campaigns on leading platforms
+	- Tailor product offerings and deals based on past purchase trends
 
 ## Tools Used
 - Microsoft Excel
