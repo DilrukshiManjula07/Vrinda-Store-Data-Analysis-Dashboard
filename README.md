@@ -3,11 +3,11 @@ The goal of this project was to create an interactive Excel dashboard that helps
 
 ## Dataset
 - A structured sales dataset containing order details including:
-- Customer demographics (age, gender, state)
-- Sales channel
-- Product categories
-- Order status
-- Order date, value, and quantity
+	- Customer demographics (age, gender, state)
+	- Sales channel
+	- Product categories
+	- Order status
+	- Order date, value, and quantity
 
 ## Business Questions (KPIs)
 - Compare total Sales vs. Orders using a combined chart
@@ -49,10 +49,10 @@ The goal of this project was to create an interactive Excel dashboard that helps
 
 ## Tools Used
 - Microsoft Excel
-- PivotTables
-- Charts
-- Slicers
-- Conditional Formatting
-- Data Cleaning
+	- PivotTables
+	- Charts
+	- Slicers
+	- Conditional Formatting
+	- Data Cleaning
 
 
